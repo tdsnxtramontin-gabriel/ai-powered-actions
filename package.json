@@ -12,6 +12,6 @@
     "@vercel/ncc": "^0.38.4"
   },
   "devDependencies": {
-    "@github/local-action": "^6.0.2"
+    "@github/local-action": "^7.0.1"
   }
 }
